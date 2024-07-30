@@ -1,4 +1,4 @@
-﻿# searchinput_dynamic-form
+﻿# react-form-calender
 
 React is a JavaScript library for creating user interfaces. In these library we can create the dynamic form with data of array.
 
@@ -7,11 +7,11 @@ React is a JavaScript library for creating user interfaces. In these library we 
 
 ## Installation
 
-Install searchinput_dynamic-form with npm
+Install react-form-calender with npm
 
 ```bash
- npm install searchinput_dynamic-form
- yarn add searchinput_dynamic-form
+ npm install react-form-calender
+ yarn add react-form-calender
 ```
     
 ## Documentation
